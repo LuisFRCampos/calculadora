@@ -3,6 +3,7 @@ INT MAIN (VOID){
   FLOAT X=0, Y=0, resultado=0;
   INT OP=0;
   DO{
+  printf("Autor:Luís Fernando Ribeiro de Campos, Curso de Análise e desenvolvimento de sistemas, Universidade La Salle, Matricula 202222243");
   PRINTF("\n\t1 - SOMA\n\t2 - SUBTRAÇÂO\n\t3 - MULTIPLICAÇÃO\n\t4 - DIVISÃO")
   SCANF("%I", &OP);
   PRINTF("\nDigite o primeiro numero: ");
